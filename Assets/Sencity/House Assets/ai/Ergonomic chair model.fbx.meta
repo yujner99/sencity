@@ -1,14 +1,8 @@
 fileFormatVersion: 2
-guid: 29e145fb761654b05a9d88f8114ac62e
+guid: 1e3c0a96b3ae93343b7a4c6a9ff4e632
 ModelImporter:
   serializedVersion: 21300
-  internalIDToNameTable:
-  - first:
-      74: 4426660501304335554
-    second: Fan|FanAction
-  - first:
-      74: 8698671994149596073
-    second: Fan|Object|Monitor|BaseLayer
+  internalIDToNameTable: []
   externalObjects: {}
   materials:
     materialImportMode: 2
